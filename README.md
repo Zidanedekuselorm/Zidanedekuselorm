@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
   </button>
   <form>
     <input type ="text" placeholder = "Name">
-    <input type ="email" placeholder ="Your email">
+    <input type ="email" placeholder ="Your email"> 
     <input type = "password" placeholder ="Your password">
   </body>
   </form>
